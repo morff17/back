@@ -1,0 +1,11 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/morff17/back.git",
+  "author": "morff <azarova.3108@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
